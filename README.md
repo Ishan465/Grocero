@@ -1,25 +1,31 @@
-Grocero
-Welcome to Grocero! 🛒
+Grocero 🛒
+Your smart companion for grocery price comparison!
 
 Overview
-Grocero is your handy companion for comparing grocery prices across different stores effortlessly. Built using .NET MAUI and leveraging the MVVM architecture, Grocero aims to make grocery shopping smarter and more cost-effective.
+Grocero is here to revolutionize your grocery shopping experience. Effortlessly compare prices across different stores and make smarter, cost-effective choices — all in one app!
 
 Features
-User Registration and Login: Sign up and log in to your account securely.
-
-Product Selection: Choose from a list of products to compare prices.
-
-Price Comparison: Get real-time prices (generated randomly) from multiple stores.
-
-Currency Conversion: See prices converted to your local currency using real-time exchange rates.
-
-Seamless Navigation: Smooth transitions between registration, login, and main comparison pages.
+🔒 User Registration and Login
+Securely create and access your account.
+🛍️ Product Selection
+Choose from a wide range of products for price comparison.
+📊 Price Comparison
+View real-time prices (randomly generated) from multiple stores.
+🌍 Currency Conversion
+Get prices converted to your local currency using live exchange rates.
+🚀 Seamless Navigation
+Experience smooth transitions between registration, login, and comparison pages.
 
 Technical Specs
-Platform: .NET MAUI for cross-platform mobile development.
+Specification	Details
+Platform	.NET MAUI for cross-platform mobile development.
+Architecture	MVVM (Model-View-ViewModel) for maintainable and testable code structure.
+Database	SQLite for efficient local data storage.
+API Integration	RESTful API for real-time currency exchange rates.
 
-Architecture: MVVM (Model-View-ViewModel).
-
-Database: SQLite for local data storage.
-
-API Integration: RESTful API for real-time currency exchange rates.
+Tech Stack
+- Language: C#
+- Framework: .NET MAUI
+- Architecture: MVVM
+- Database: SQLite
+- API: RESTful for currency exchange rates
