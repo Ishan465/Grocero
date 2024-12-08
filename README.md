@@ -5,6 +5,7 @@ Overview
 Grocero is here to revolutionize your grocery shopping experience. Effortlessly compare prices across different stores and make smarter, cost-effective choices — all in one app!
 
 Features
+
 🔒 User Registration and Login 
 Securely create and access your account.
 
@@ -21,13 +22,18 @@ Get prices converted to your local currency using live exchange rates.
 Experience smooth transitions between registration, login, and comparison pages.
 
 Technical Specs
-Specification	Details
+
 Platform	.NET MAUI for cross-platform mobile development.
+
 Architecture	MVVM (Model-View-ViewModel) for maintainable and testable code structure.
+
 Database	SQLite for efficient local data storage.
+
 API Integration	RESTful API for real-time currency exchange rates.
 
+
 Tech Stack
+
 - Language: C#
 - Framework: .NET MAUI
 - Architecture: MVVM
