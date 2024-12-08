@@ -1,0 +1,94 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Grocero.Views.MainPage"
+             xmlns:viewmodel="clr-namespace:Grocero.ViewModels"
+             x:DataType="viewmodel:MainViewModel"
+             BackgroundColor="#F3F4F6">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="30" 
+                             Spacing="30" 
+                             HorizontalOptions="Center"
+                             VerticalOptions="CenterAndExpand">
+
+            <Image Source="logo.png" 
+                   HeightRequest="120" 
+                   WidthRequest="120" 
+                   Aspect="AspectFit" 
+                   HorizontalOptions="Center" />
+
+            <Label Text="Welcome to Grocero!" 
+                   FontSize="32" 
+                   FontAttributes="Bold" 
+                   TextColor="#1D3557" 
+                   HorizontalOptions="Center" />
+
+            <Label Text="Please enter your email and password to continue." 
+                   FontSize="18" 
+                   TextColor="#457B9D" 
+                   HorizontalOptions="Center" />
+
+            <VerticalStackLayout Spacing="20">
+
+                <Frame BackgroundColor="#FFFFFF" 
+                       CornerRadius="15" 
+                       Padding="10" 
+                       HasShadow="True">
+
+                    <Entry x:Name="EmailEntry" 
+                           Placeholder="Enter your email" 
+                           Keyboard="Email" 
+                           BackgroundColor="Transparent" 
+                           HeightRequest="50" 
+                           Text="{Binding Email}"
+                           FontSize="18" 
+                           TextColor="#1D3557" />
+                </Frame>
+
+                <Frame BackgroundColor="#FFFFFF" 
+                       CornerRadius="15" 
+                       Padding="10" 
+                       HasShadow="True">
+
+                    <Entry x:Name="PasswordEntry" 
+                           Placeholder="Enter your password" 
+                           IsPassword="True" 
+                           BackgroundColor="Transparent" 
+                           HeightRequest="50" 
+                           Text="{Binding Password}"
+                           FontSize="18" 
+                           TextColor="#1D3557" />
+                </Frame>
+            </VerticalStackLayout>
+
+            <VerticalStackLayout Spacing="20">
+                <Button Text="Login" 
+                        Command="{Binding LoginCommand}" 
+                        BackgroundColor="#2A9D8F" 
+                        TextColor="White" 
+                        FontAttributes="Bold" 
+                        CornerRadius="25" 
+                        HeightRequest="50" 
+                        HorizontalOptions="FillAndExpand"
+                        FontSize="18" />
+
+                <Button Text="Register" 
+                        Command="{Binding RegisterCommand}"
+                        BackgroundColor="#E76F51" 
+                        TextColor="White" 
+                        FontAttributes="Bold" 
+                        CornerRadius="25" 
+                        HeightRequest="50" 
+                        HorizontalOptions="FillAndExpand"
+                        FontSize="18" />
+            </VerticalStackLayout>
+
+            <Label Text="{Binding ValidationMessage}" 
+                   TextColor="Red" 
+                   IsVisible="{Binding IsValidationMessageVisible}" 
+                   FontSize="16" 
+                   HorizontalOptions="Center" 
+                   Padding="10" />
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

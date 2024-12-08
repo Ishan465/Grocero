@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ISHAN\\source\\repos\\Grocero\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26474D8B-63FF-4014-868A-06B6E4531878}|Grocero.csproj|c:\\users\\ishan\\source\\repos\\grocero\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26474D8B-63FF-4014-868A-06B6E4531878}|Grocero.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26474D8B-63FF-4014-868A-06B6E4531878}|Grocero.csproj|c:\\users\\ishan\\source\\repos\\grocero\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26474D8B-63FF-4014-868A-06B6E4531878}|Grocero.csproj|solutionrelative:viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26474D8B-63FF-4014-868A-06B6E4531878}|Grocero.csproj|c:\\users\\ishan\\source\\repos\\grocero\\helpers\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26474D8B-63FF-4014-868A-06B6E4531878}|Grocero.csproj|solutionrelative:helpers\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26474D8B-63FF-4014-868A-06B6E4531878}|Grocero.csproj|c:\\users\\ishan\\source\\repos\\grocero\\services\\exchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26474D8B-63FF-4014-868A-06B6E4531878}|Grocero.csproj|solutionrelative:services\\exchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26474D8B-63FF-4014-868A-06B6E4531878}|Grocero.csproj|c:\\users\\ishan\\source\\repos\\grocero\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26474D8B-63FF-4014-868A-06B6E4531878}|Grocero.csproj|solutionrelative:views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26474D8B-63FF-4014-868A-06B6E4531878}|Grocero.csproj|c:\\users\\ishan\\source\\repos\\grocero\\viewmodels\\welcomeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26474D8B-63FF-4014-868A-06B6E4531878}|Grocero.csproj|solutionrelative:viewmodels\\welcomeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26474D8B-63FF-4014-868A-06B6E4531878}|Grocero.csproj|c:\\users\\ishan\\source\\repos\\grocero\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26474D8B-63FF-4014-868A-06B6E4531878}|Grocero.csproj|solutionrelative:views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26474D8B-63FF-4014-868A-06B6E4531878}|Grocero.csproj|c:\\users\\ishan\\source\\repos\\grocero\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26474D8B-63FF-4014-868A-06B6E4531878}|Grocero.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26474D8B-63FF-4014-868A-06B6E4531878}|Grocero.csproj|c:\\users\\ishan\\source\\repos\\grocero\\views\\welcomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26474D8B-63FF-4014-868A-06B6E4531878}|Grocero.csproj|solutionrelative:views\\welcomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26474D8B-63FF-4014-868A-06B6E4531878}|Grocero.csproj|c:\\users\\ishan\\source\\repos\\grocero\\views\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26474D8B-63FF-4014-868A-06B6E4531878}|Grocero.csproj|solutionrelative:views\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ISHAN\\source\\repos\\Grocero\\Helpers\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\ISHAN\\source\\repos\\Grocero\\Helpers\\DatabaseHelper.cs",
+              "RelativeToolTip": "Helpers\\DatabaseHelper.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T21:20:53.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExchangeRateService.cs",
+              "DocumentMoniker": "C:\\Users\\ISHAN\\source\\repos\\Grocero\\Services\\ExchangeRateService.cs",
+              "RelativeDocumentMoniker": "Services\\ExchangeRateService.cs",
+              "ToolTip": "C:\\Users\\ISHAN\\source\\repos\\Grocero\\Services\\ExchangeRateService.cs",
+              "RelativeToolTip": "Services\\ExchangeRateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T21:15:07.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ISHAN\\source\\repos\\Grocero\\Views\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\ISHAN\\source\\repos\\Grocero\\Views\\MainPage.xaml.cs",
+              "RelativeToolTip": "Views\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T21:10:13.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\ISHAN\\source\\repos\\Grocero\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Models\\Users.cs",
+              "ToolTip": "C:\\Users\\ISHAN\\source\\repos\\Grocero\\Models\\Users.cs",
+              "RelativeToolTip": "Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T20:57:09.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ISHAN\\source\\repos\\Grocero\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\ISHAN\\source\\repos\\Grocero\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T20:57:11.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ISHAN\\source\\repos\\Grocero\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\ISHAN\\source\\repos\\Grocero\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T20:57:12.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WelcomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ISHAN\\source\\repos\\Grocero\\ViewModels\\WelcomeViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\WelcomeViewModel.cs",
+              "ToolTip": "C:\\Users\\ISHAN\\source\\repos\\Grocero\\ViewModels\\WelcomeViewModel.cs",
+              "RelativeToolTip": "ViewModels\\WelcomeViewModel.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T20:57:13.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ISHAN\\source\\repos\\Grocero\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\ISHAN\\source\\repos\\Grocero\\Views\\MainPage.xaml",
+              "RelativeToolTip": "Views\\MainPage.xaml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-08T20:57:13.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ISHAN\\source\\repos\\Grocero\\Views\\RegisterPage.xaml",
+              "RelativeDocumentMoniker": "Views\\RegisterPage.xaml",
+              "ToolTip": "C:\\Users\\ISHAN\\source\\repos\\Grocero\\Views\\RegisterPage.xaml",
+              "RelativeToolTip": "Views\\RegisterPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-08T20:57:14.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WelcomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\ISHAN\\source\\repos\\Grocero\\Views\\WelcomePage.xaml",
+              "RelativeDocumentMoniker": "Views\\WelcomePage.xaml",
+              "ToolTip": "C:\\Users\\ISHAN\\source\\repos\\Grocero\\Views\\WelcomePage.xaml",
+              "RelativeToolTip": "Views\\WelcomePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-08T20:57:16.033Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

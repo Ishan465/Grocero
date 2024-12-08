@@ -1,0 +1,206 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Grocero</name>
+    </assembly>
+    <members>
+        <member name="T:Grocero.ViewModels.MainViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:Grocero.ViewModels.MainViewModel.Email">
+            <inheritdoc cref="F:Grocero.ViewModels.MainViewModel.email"/>
+        </member>
+        <member name="P:Grocero.ViewModels.MainViewModel.Password">
+            <inheritdoc cref="F:Grocero.ViewModels.MainViewModel.password"/>
+        </member>
+        <member name="P:Grocero.ViewModels.MainViewModel.ValidationMessage">
+            <inheritdoc cref="F:Grocero.ViewModels.MainViewModel.validationMessage"/>
+        </member>
+        <member name="P:Grocero.ViewModels.MainViewModel.IsValidationMessageVisible">
+            <inheritdoc cref="F:Grocero.ViewModels.MainViewModel.isValidationMessageVisible"/>
+        </member>
+        <member name="F:Grocero.ViewModels.MainViewModel.loginClickedCommand">
+            <summary>The backing field for <see cref="P:Grocero.ViewModels.MainViewModel.LoginClickedCommand"/>.</summary>
+        </member>
+        <member name="P:Grocero.ViewModels.MainViewModel.LoginClickedCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:Grocero.ViewModels.MainViewModel.OnLoginClicked"/>.</summary>
+        </member>
+        <member name="F:Grocero.ViewModels.MainViewModel.registerClickedCommand">
+            <summary>The backing field for <see cref="P:Grocero.ViewModels.MainViewModel.RegisterClickedCommand"/>.</summary>
+        </member>
+        <member name="P:Grocero.ViewModels.MainViewModel.RegisterClickedCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:Grocero.ViewModels.MainViewModel.OnRegisterClicked"/>.</summary>
+        </member>
+        <member name="T:Grocero.ViewModels.RegisterViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:Grocero.ViewModels.RegisterViewModel.Name">
+            <inheritdoc cref="F:Grocero.ViewModels.RegisterViewModel.name"/>
+        </member>
+        <member name="P:Grocero.ViewModels.RegisterViewModel.Email">
+            <inheritdoc cref="F:Grocero.ViewModels.RegisterViewModel.email"/>
+        </member>
+        <member name="P:Grocero.ViewModels.RegisterViewModel.Password">
+            <inheritdoc cref="F:Grocero.ViewModels.RegisterViewModel.password"/>
+        </member>
+        <member name="P:Grocero.ViewModels.RegisterViewModel.ConfirmPassword">
+            <inheritdoc cref="F:Grocero.ViewModels.RegisterViewModel.confirmPassword"/>
+        </member>
+        <member name="P:Grocero.ViewModels.RegisterViewModel.ValidationMessage">
+            <inheritdoc cref="F:Grocero.ViewModels.RegisterViewModel.validationMessage"/>
+        </member>
+        <member name="P:Grocero.ViewModels.RegisterViewModel.IsValidationMessageVisible">
+            <inheritdoc cref="F:Grocero.ViewModels.RegisterViewModel.isValidationMessageVisible"/>
+        </member>
+        <member name="F:Grocero.ViewModels.RegisterViewModel.registerClickedCommand">
+            <summary>The backing field for <see cref="P:Grocero.ViewModels.RegisterViewModel.RegisterClickedCommand"/>.</summary>
+        </member>
+        <member name="P:Grocero.ViewModels.RegisterViewModel.RegisterClickedCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:Grocero.ViewModels.RegisterViewModel.OnRegisterClicked"/>.</summary>
+        </member>
+        <member name="T:Grocero.ViewModels.WelcomeViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:Grocero.ViewModels.WelcomeViewModel.ProductName">
+            <inheritdoc cref="F:Grocero.ViewModels.WelcomeViewModel.productName"/>
+        </member>
+        <member name="P:Grocero.ViewModels.WelcomeViewModel.ProductImage">
+            <inheritdoc cref="F:Grocero.ViewModels.WelcomeViewModel.productImage"/>
+        </member>
+        <member name="P:Grocero.ViewModels.WelcomeViewModel.WalmartPrice">
+            <inheritdoc cref="F:Grocero.ViewModels.WelcomeViewModel.walmartPrice"/>
+        </member>
+        <member name="P:Grocero.ViewModels.WelcomeViewModel.SuperstorePrice">
+            <inheritdoc cref="F:Grocero.ViewModels.WelcomeViewModel.superstorePrice"/>
+        </member>
+        <member name="P:Grocero.ViewModels.WelcomeViewModel.FoodBasicsPrice">
+            <inheritdoc cref="F:Grocero.ViewModels.WelcomeViewModel.foodBasicsPrice"/>
+        </member>
+        <member name="P:Grocero.ViewModels.WelcomeViewModel.PriceTip">
+            <inheritdoc cref="F:Grocero.ViewModels.WelcomeViewModel.priceTip"/>
+        </member>
+        <member name="P:Grocero.ViewModels.WelcomeViewModel.SelectedProduct">
+            <inheritdoc cref="F:Grocero.ViewModels.WelcomeViewModel.selectedProduct"/>
+        </member>
+        <member name="P:Grocero.ViewModels.WelcomeViewModel.ConvertedWalmartPrice">
+            <inheritdoc cref="F:Grocero.ViewModels.WelcomeViewModel.convertedWalmartPrice"/>
+        </member>
+        <member name="P:Grocero.ViewModels.WelcomeViewModel.ConvertedSuperstorePrice">
+            <inheritdoc cref="F:Grocero.ViewModels.WelcomeViewModel.convertedSuperstorePrice"/>
+        </member>
+        <member name="P:Grocero.ViewModels.WelcomeViewModel.ConvertedFoodBasicsPrice">
+            <inheritdoc cref="F:Grocero.ViewModels.WelcomeViewModel.convertedFoodBasicsPrice"/>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Email">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Email" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Password">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Password" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.ValidationMessage">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "ValidationMessage" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.IsValidationMessageVisible">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "IsValidationMessageVisible" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Name">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Name" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.ConfirmPassword">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "ConfirmPassword" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.ProductName">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "ProductName" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.ProductImage">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "ProductImage" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.WalmartPrice">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "WalmartPrice" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.SuperstorePrice">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "SuperstorePrice" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.FoodBasicsPrice">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "FoodBasicsPrice" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.PriceTip">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "PriceTip" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.SelectedProduct">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "SelectedProduct" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.ConvertedWalmartPrice">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "ConvertedWalmartPrice" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.ConvertedSuperstorePrice">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "ConvertedSuperstorePrice" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.ConvertedFoodBasicsPrice">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "ConvertedFoodBasicsPrice" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Email">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Email" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Password">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Password" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.ValidationMessage">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "ValidationMessage" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.IsValidationMessageVisible">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "IsValidationMessageVisible" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Name">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Name" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.ConfirmPassword">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "ConfirmPassword" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.ProductName">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "ProductName" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.ProductImage">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "ProductImage" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.WalmartPrice">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "WalmartPrice" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.SuperstorePrice">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "SuperstorePrice" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.FoodBasicsPrice">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "FoodBasicsPrice" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.PriceTip">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "PriceTip" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.SelectedProduct">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "SelectedProduct" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.ConvertedWalmartPrice">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "ConvertedWalmartPrice" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.ConvertedSuperstorePrice">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "ConvertedSuperstorePrice" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.ConvertedFoodBasicsPrice">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "ConvertedFoodBasicsPrice" generated properties.</summary>
+        </member>
+    </members>
+</doc>

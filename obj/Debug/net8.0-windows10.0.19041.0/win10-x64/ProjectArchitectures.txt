@@ -1,0 +1,1 @@
+C:\Users\ISHAN\source\repos\Grocero\Grocero.csproj;x64
