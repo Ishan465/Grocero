@@ -21,16 +21,6 @@ Get prices converted to your local currency using live exchange rates.
 🚀 Seamless Navigation
 Experience smooth transitions between registration, login, and comparison pages.
 
-Technical Specs
-
-Platform	.NET MAUI for cross-platform mobile development.
-
-Architecture	MVVM (Model-View-ViewModel) for maintainable and testable code structure.
-
-Database	SQLite for efficient local data storage.
-
-API Integration	RESTful API for real-time currency exchange rates.
-
 
 Tech Stack
 
