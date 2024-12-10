@@ -13,7 +13,7 @@ Securely create and access your account.
 Choose from a wide range of products for price comparison.
 
 📊 Price Comparison
-View real-time prices (randomly generated) from multiple stores.
+View prices (randomly generated) from multiple stores.
 
 🌍 Currency Conversion
 Get prices converted to your local currency using live exchange rates.
